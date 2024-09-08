@@ -1,0 +1,1 @@
+import{_ as o,e as t,r as s,c as _,l as a,a as c,o as r}from"./index.99faa70c.js";const n={id:"Software",class:"container"},d={class:"row"},p={__name:"Software",setup(i){return t(()=>{}),(f,l)=>{const e=s("router-view");return r(),_("div",n,[a("div",d,[c(e)])])}}},v=o(p,[["__scopeId","data-v-ce036f02"]]);export{v as default};
